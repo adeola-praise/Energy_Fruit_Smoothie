@@ -7,5 +7,5 @@ Each fruit has two varieties with different calorie values from which the user c
 <br >
 The entire fruit choice of the user is stored and a smoothie is made. The total calorie value of the smoothie is returned and compared with some standard values that determine if the smoothie is a Low Energy Smoothie, Perfect Energy Smoothie or High Energy Smoothie.
 ## Why I Built this Project
-This project was built to help me to master the basics of C# programming language. Building this project has helped me implement my knowledge of: Classes, Methods, Access Modifiers, Lists, Loops, Exceptions, etc in C# programming.
+This project was built to help me master the basics of C# programming language. Building this project has helped me implement my knowledge of: Classes, Methods, Access Modifiers, Lists, Loops, Exceptions, etc in C# programming.
 
